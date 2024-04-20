@@ -16,7 +16,7 @@ O "Compre Seu Ingresso" é um site intuitivo e fácil de usar que oferece aos us
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/usuario/ingresso-online.git
+    git clone https://github.com/vanvilas/ingresso-online.git
     ```
 
 2. Acesse o diretório do projeto:
